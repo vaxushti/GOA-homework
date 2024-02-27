@@ -214,21 +214,6 @@ forward(50)
 right(90)
 forward(100)
 
-color("green")
-begin_fill()
-begin_fill()
-penup()
-goto(-550,-350)
-pendown()
-right(90)
-forward(300)
-left(90)
-forward(200)
-end_fill()
-
-
-
-
 
 
 
